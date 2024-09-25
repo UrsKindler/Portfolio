@@ -14,6 +14,13 @@ Portfolio
 
 #### Projects
 
+## Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells
+[Publication](https://bio-protocol.org/en/bpdetail?id=4984&type=0)
+
+Various protocols have been proven effective in the directed differentiation of mouse and human pluripotent stem cells into skeletal muscles and used to study myogenesis. Current 2D myogenic differentiation protocols can mimic muscle development and its alteration under pathological conditions such as muscular dystrophies. 3D skeletal muscle differentiation approaches can, in addition, model the interaction between the various cell types within the developing organoid. Our protocol ensures the differentiation of human embryonic/induced pluripotent stem cells (hESC/hiPSC) into skeletal muscle organoids (SMO) via cells with paraxial mesoderm and neuromesodermal progenitors’ identity and further production of organized structures of the neural plate margin and the dermomyotome. Continuous culturing omits neural lineage differentiation and promotes fetal myogenesis, including the maturation of fibroadipogenic progenitors and PAX7-positive myogenic progenitors. The PAX7 progenitors resemble the late fetal stages of human development and, based on single-cell transcriptomic profiling, cluster close to adult satellite cells of primary muscles. To overcome the limited availability of muscle biopsies from patients with muscular dystrophy during disease progression, we propose to use the SMO system, which delivers a stable population of skeletal muscle progenitors from patient-specific iPSCs to investigate human myogenesis in healthy and diseased conditions.
+
+![Skeletal muscle organoid induction and timeline of differentiation media applications and growth factor compositions](/images/grafical_abstract_Kindler_et_al_2024.png)
+
 **In Progress**
 
 #### Publication
