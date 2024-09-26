@@ -1,5 +1,9 @@
 Portfolio
 
+#### Technical Skills
+
+[Tableau](https://public.tableau.com/app/profile/urs.kindler/vizzes)
+
 #### Professional Experience
 
 **In Progress**
