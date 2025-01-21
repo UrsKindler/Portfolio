@@ -18,7 +18,7 @@ Portfolio
 
 - Data Analytics Bootcamp, ROGM Masterschool GmbH (_2024/2025_)
 
-- Ph.D., Graduate School of Chemistry and Biochemistry, Ruhr University Bochum (_2023_)
+- Dr. rer. nat., Graduate School of Chemistry and Biochemistry, Ruhr University Bochum (_2023_)
 
 - M.Sc., International Master for Molecular and Developmental Stem Cell Biology, Ruhr University Bochum (_2016_)
 
