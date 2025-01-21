@@ -6,7 +6,7 @@ Portfolio
 
 ## Professional Experience
 
-- Scientific assistant at Ruhr University Bochum, Scientific assistant (_2019 - 2024_)
+- Scientific assistant at Ruhr University Bochum, (_2019 - 2024_)
     - Department of Anatomy and Molecular Embryology
     - Department of Human Genetics
 
