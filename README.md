@@ -1,14 +1,22 @@
 Portfolio
 
-#### Technical Skills
+## Technical Skills
 
 [Tableau](https://public.tableau.com/app/profile/urs.kindler/vizzes)
 
-#### Professional Experience
+## Professional Experience
 
-**In Progress**
+- Scientific assistant at Ruhr University Bochum, Scientific assistant (_2019 - 2024_)
+    - Department of Anatomy and Molecular Embryology
+    - Department of Human Genetics
 
-#### Education
+- Scientific assistant at Max Delbrück Center for Molecular Medicine, Helmholtz Institute Berlin (_2017 - 2019_)
+    - Research Group of Cellular Neurosciences
+
+
+## Education
+
+- Data Analytics Bootcamp, ROGM Masterschool GmbH (_2024/2025_)
 
 - Ph.D., Graduate School of Chemistry and Biochemistry, Ruhr University Bochum (_2023_)
 
@@ -16,14 +24,21 @@ Portfolio
 
 - B.Sc., Biology, Ruhr University Bochum (_2013_)
 
-#### Projects
+## Projects
 
-## Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells
+### Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells
 [Publication](https://bio-protocol.org/en/bpdetail?id=4984&type=0)
 
 Various protocols have been proven effective in the directed differentiation of mouse and human pluripotent stem cells into skeletal muscles and used to study myogenesis. Current 2D myogenic differentiation protocols can mimic muscle development and its alteration under pathological conditions such as muscular dystrophies. 3D skeletal muscle differentiation approaches can, in addition, model the interaction between the various cell types within the developing organoid. Our protocol ensures the differentiation of human embryonic/induced pluripotent stem cells (hESC/hiPSC) into skeletal muscle organoids (SMO) via cells with paraxial mesoderm and neuromesodermal progenitors’ identity and further production of organized structures of the neural plate margin and the dermomyotome. Continuous culturing omits neural lineage differentiation and promotes fetal myogenesis, including the maturation of fibroadipogenic progenitors and PAX7-positive myogenic progenitors. The PAX7 progenitors resemble the late fetal stages of human development and, based on single-cell transcriptomic profiling, cluster close to adult satellite cells of primary muscles. To overcome the limited availability of muscle biopsies from patients with muscular dystrophy during disease progression, we propose to use the SMO system, which delivers a stable population of skeletal muscle progenitors from patient-specific iPSCs to investigate human myogenesis in healthy and diseased conditions.
 
 ![Skeletal muscle organoid induction and timeline of differentiation media applications and growth factor compositions](/images/grafical_abstract_Kindler_et_al_2024.png)
+
+### Myogenic deveolopment in in vitro cell culture models 
+[Publication](https://elifesciences.org/reviewed-preprints/87081)
+
+Myogenesis starts from early embryonic development until postnatal maturation. Until recently, little was known about the myogenic development in humans. Single cell analyses become more and more popular for the study of the heterogeneity of cell populations within one type of tissue. Upcoming scRNA-seq studies along different time points of muscle development start to clarify these ranges ([Xi et al., 2020](https://www.sciencedirect.com/science/article/pii/S1934590920301569)). Reconstruction of a developmental roadmap to investigate the maturation grade of myogenic progenitors along myogenic development gave an exact picture of in vitro differentiated cells as described by ([Xi et al., 2020](https://www.sciencedirect.com/science/article/pii/S1934590920301569)). Technically, to align the raw data to the human genome the Cell Ranger version 5 software was applied. To analyze organoid scRNA seq datasets, “Seurat” version 4.3 is used ([Hao et al., 2021](https://www.cell.com/cell/fulltext/S0092-8674(21)00583-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421005833%3Fshowall%3Dtrue); [Satija et al., 2015](https://www.nature.com/articles/nbt.3192)). The developmental score was calculated as described in (Xi et al., 2020). The ‘‘AddModuleScore’’ function was used to calculate the embryonic and adult score, using a list of differentially expressed genes (DEGs) between adult and embryonic myogenic progenitor clusters. A detailed description of the analysis and the 3D skeletal muscle organoid model can be found here ([Kindler et al., 2024](https://bio-protocol.org/en/bpdetail?id=4984&type=0); [Mavrommatis et al., 2023](https://elifesciences.org/reviewed-preprints/87081)) 
+
+![developmental score](/images/developmental_score_elife.png)
 
 **In Progress**
 
