@@ -22,7 +22,7 @@ Portfolio
 
 - M.Sc., International Master for Molecular and Developmental Stem Cell Biology, Ruhr University Bochum (_2016_)
 
-- B.Sc., Biology, Ruhr University Bochum (_2013_)
+- B.Sc., Biology, Ruhr University Bochum (_2014_)
 
 ## Projects
 
