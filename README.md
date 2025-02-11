@@ -62,7 +62,7 @@ Develop a user-friendly Tableau dashboard to visualize key sales metrics, includ
 
 **Description:**
 The project focused on building a dynamic and interactive Tableau dashboard that allowed stakeholders to explore sales data from 2015-2018.
-[Tableau dashboard]([https://elifesciences.org/reviewed-preprints/87081](https://public.tableau.com/app/profile/urs.kindler/viz/Kindler_Unicorn_Project_Masterschool/UnicornCompanyPerformance)
+[Tableau dashboard](https://public.tableau.com/app/profile/urs.kindler/viz/Kindler_Unicorn_Project_Masterschool/UnicornCompanyPerformance)
 
 
 #### Publication
