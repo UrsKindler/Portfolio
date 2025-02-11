@@ -1,8 +1,11 @@
-Portfolio
-
 ## Technical Skills
-
-[Tableau](https://public.tableau.com/app/profile/urs.kindler/vizzes)
+- Programming Languages
+  - Python, 
+  - R,
+- Database Management 
+  - SQL, 
+- Data Visualization:
+  - Tableau 
 
 ## Professional Experience
 
