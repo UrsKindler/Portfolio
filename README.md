@@ -29,7 +29,7 @@
 
 ## Projects
 
-###Academic Research Projects
+### Academic Research Projects
 
 #### Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells
 [Publication](https://bio-protocol.org/en/bpdetail?id=4984&type=0)
@@ -45,15 +45,15 @@ Myogenesis starts from early embryonic development until postnatal maturation. U
 
 ![developmental score](/images/developmental_score_elife.png)
 
-###Data Science Projects:
+### Data Science Projects:
 
-####Vehicle Category Prediction Using Machine Learning
+#### Vehicle Category Prediction Using Machine Learning
 **Goal:** Develop a machine learning model to predict unknown vehicle market categories and conduct comprehensive data analysis.
 
 **Description:**
 This project involved analyzing a complex vehicle dataset and implementing a K-Nearest Neighbors (KNN) classification model to predict market categories. The focus was on data preprocessing, exploratory data analysis (EDA), and optimizing the model for better performance.
 
-####Data Visualization for Sales Analysis of an Emerging E-Commerce Business
+#### Data Visualization for Sales Analysis of an Emerging E-Commerce Business
 
 This project involved creating an interactive Tableau dashboard to analyze sales data for Unicorn, a fictitious e-commerce company. The dataset simulated real-world business challenges faced by online retailers, offering insights into sales trends, regional performance, and product category dynamics. The dashboard served as a powerful tool for stakeholders to identify growth opportunities, address weak areas, and make data-driven decisions.
 
