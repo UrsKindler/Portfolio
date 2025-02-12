@@ -41,7 +41,25 @@
 #### Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells
 [Publication](https://bio-protocol.org/en/bpdetail?id=4984&type=0)
 
-Various protocols have been proven effective in the directed differentiation of mouse and human pluripotent stem cells into skeletal muscles and used to study myogenesis. Current 2D myogenic differentiation protocols can mimic muscle development and its alteration under pathological conditions such as muscular dystrophies. 3D skeletal muscle differentiation approaches can, in addition, model the interaction between the various cell types within the developing organoid. Our protocol ensures the differentiation of human embryonic/induced pluripotent stem cells (hESC/hiPSC) into skeletal muscle organoids (SMO) via cells with paraxial mesoderm and neuromesodermal progenitors’ identity and further production of organized structures of the neural plate margin and the dermomyotome. Continuous culturing omits neural lineage differentiation and promotes fetal myogenesis, including the maturation of fibroadipogenic progenitors and PAX7-positive myogenic progenitors. The PAX7 progenitors resemble the late fetal stages of human development and, based on single-cell transcriptomic profiling, cluster close to adult satellite cells of primary muscles. To overcome the limited availability of muscle biopsies from patients with muscular dystrophy during disease progression, we propose to use the SMO system, which delivers a stable population of skeletal muscle progenitors from patient-specific iPSCs to investigate human myogenesis in healthy and diseased conditions.
+This project focused on developing and optimizing a protocol for generating 3D skeletal muscle organoids (SMOs) from human pluripotent stem cells (hESCs/hiPSCs). The goal was to create a model system that mimics human muscle development in vitro, allowing for the study of myogenesis and related diseases like muscular dystrophy.
+
+**Key Contributions:**
+
+*   **Protocol Development:** Optimized the differentiation of hESCs/hiPSCs into SMOs hiPSCs.
+*   **Cell Culture Expertise:** Proficiently cultured human hiPSCs and applied the complex 3D differentiation protocol.
+*   **Data Analysis & Visualization:** Analyzed cell culture and differentiation data and created visualizations to present the results.
+
+**Skills Utilized:**
+
+*   Cell culture
+*   3D cell differentiation
+*   Data analysis
+*   Data visualization
+*   Protocol design and optimization
+
+**Why this project is important:**
+
+This project addressed the limited availability of muscle biopsies from patients with muscular dystrophy by providing a stable in vitro model for studying human myogenesis in healthy and diseased conditions.
 
 ![Skeletal muscle organoid induction and timeline of differentiation media applications and growth factor compositions](/images/grafical_abstract_Kindler_et_al_2024.png)
 
