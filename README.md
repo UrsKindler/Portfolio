@@ -31,7 +31,7 @@
 
 - [Academic Research Projects](#academic-research-projects)
   - [Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells](#generation-of-skeletal-muscle-organoids-from-human-pluripotent-stem-cells)
-  - [Myogenic development in in vitro cell culture models](#myogenic-development-in-in-vitro-cell-culture-models)
+  - [Human Skeletal Muscle Organoids Model Fetal Myogenesis and Sustain Uncommitted PAX7 Myogenic Progenitors](#human-skeletal-muscle-organoids-model-fetal-myogenesis-and-sustain-uncommitted-pax7-myogenic-progenitors)
 - [Data Science Projects](#data-science-projects)
   - [Vehicle Category Prediction Using Machine Learning](#vehicle-category-prediction-using-machine-learning)
   - [Data Visualization for Sales Analysis of an Emerging E-Commerce Business](#data-visualization-for-sales-analysis-of-an-emerging-e-commerce-business)
@@ -63,8 +63,8 @@ This project addressed the limited availability of muscle biopsies from patients
 
 ![Skeletal muscle organoid induction and timeline of differentiation media applications and growth factor compositions](/images/grafical_abstract_Kindler_et_al_2024.png)
 
-#### Myogenic deveolopment in in vitro cell culture models 
-[Publication](https://elifesciences.org/reviewed-preprints/87081)
+#### Human Skeletal Muscle Organoids Model Fetal Myogenesis and Sustain Uncommitted PAX7 Myogenic Progenitors 
+[Publication](https://elifesciences.org/reviewed-preprints/87081) 
 
 Myogenesis starts from early embryonic development until postnatal maturation. Until recently, little was known about the myogenic development in humans. Single cell analyses become more and more popular for the study of the heterogeneity of cell populations within one type of tissue. Upcoming scRNA-seq studies along different time points of muscle development start to clarify these ranges ([Xi et al., 2020](https://www.sciencedirect.com/science/article/pii/S1934590920301569)). Reconstruction of a developmental roadmap to investigate the maturation grade of myogenic progenitors along myogenic development gave an exact picture of in vitro differentiated cells as described by ([Xi et al., 2020](https://www.sciencedirect.com/science/article/pii/S1934590920301569)). Technically, to align the raw data to the human genome the Cell Ranger version 5 software was applied. To analyze organoid scRNA seq datasets, “Seurat” version 4.3 is used ([Hao et al., 2021](https://www.cell.com/cell/fulltext/S0092-8674(21)00583-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421005833%3Fshowall%3Dtrue); [Satija et al., 2015](https://www.nature.com/articles/nbt.3192)). The developmental score was calculated as described in ([Xi et al., 2020](https://www.sciencedirect.com/science/article/pii/S1934590920301569)). The ‘‘AddModuleScore’’ function was used to calculate the embryonic and adult score, using a list of differentially expressed genes (DEGs) between adult and embryonic myogenic progenitor clusters. The analysis were carried out using RStudio. A detailed description of the analysis and the 3D skeletal muscle organoid model can be found here ([Kindler et al., 2024](https://bio-protocol.org/en/bpdetail?id=4984&type=0); [Mavrommatis et al., 2023](https://elifesciences.org/reviewed-preprints/87081)) 
 
