@@ -45,9 +45,9 @@ This project focused on developing and optimizing a protocol for generating 3D s
 
 **Key Contributions:**
 
-*   **Protocol Development:** Optimized the differentiation of hESCs/hiPSCs into SMOs hiPSCs.
-*   **Cell Culture Expertise:** Proficiently cultured human hiPSCs and applied the complex 3D differentiation protocol.
-*   **Data Analysis & Visualization:** Analyzed cell culture and differentiation data and created visualizations to present the results.
+*   Protocol Development: Optimized the differentiation of hESCs/hiPSCs into SMOs hiPSCs.
+*   Cell Culture Expertise: Proficiently cultured human hiPSCs and applied the complex 3D differentiation protocol.
+*   Data Analysis & Visualization: Analyzed cell culture and differentiation data and created visualizations to present the results.
 
 **Skills Utilized:**
 
