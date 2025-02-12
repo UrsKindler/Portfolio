@@ -29,6 +29,13 @@
 
 ## Projects
 
+- [Academic Research Projects](#Academic Research Projects)
+  - [Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells](#Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells)
+  - [Myogenic deveolopment in in vitro cell culture models](#Myogenic deveolopment in in vitro cell culture models)
+- [Data Science Projects](#Data Science Projects)
+  - [Vehicle Category Prediction Using Machine Learning](#Vehicle Category Prediction Using Machine Learning)
+  - [Data Visualization for Sales Analysis of an Emerging E-Commerce Business](#Data Visualization for Sales Analysis of an Emerging E-Commerce Business)
+
 ### Academic Research Projects
 
 #### Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells
