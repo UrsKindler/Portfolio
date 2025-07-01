@@ -3,12 +3,16 @@
   - Python, 
   - R,
 - Database Management 
-  - SQL, 
+  - SQL,
+  - Cypher (neo4J)
 - Data Visualization:
   - Tableau 
 
 ## Professional Experience
 
+- Postdoctoral researcher at Leibniz Institute for Analytical Sciences - ISAS - e.V., Dortmund (_2025 - now_)
+    - Research Group Multidimensional Omics Data Analysis 
+    
 - Scientific assistant at Ruhr University Bochum, (_2019 - 2024_)
     - Department of Anatomy and Molecular Embryology
     - Department of Human Genetics
