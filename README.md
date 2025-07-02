@@ -23,7 +23,7 @@
 
 ## Education
 
-- Data Analytics Bootcamp, ROGM Masterschool GmbH (_2024/2025_)
+- Data Analytics Bootcamp, ROGM Masterschool GmbH (_2025_)
 
 - Dr. rer. nat., Graduate School of Chemistry and Biochemistry, Ruhr University Bochum (_2023_)
 
