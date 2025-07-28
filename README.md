@@ -96,6 +96,8 @@ The project focused on building a dynamic and interactive Tableau dashboard that
 
 #### Publication
 
+Kindler, U., Mavrommatis, L., Käppler, F., Hiluf, D. G., Heilmann-Heimbach, S., Marcus, K., Günther Pomorski, T., Vorgerd, M., Brand-Saberi, B., & Zaehres, H. (2025). Duchenne Muscular Dystrophy Patient iPSCs—Derived Skeletal Muscle Organoids Exhibit a Developmental Delay in Myogenic Progenitor Maturation. Cells, 14(13), 1033. https://doi.org/10.3390/CELLS14131033/S1
+
 Kindler, U., Zaehres, H., & Mavrommatis, L. (2024). Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells. BIO-PROTOCOL, 14(1344). https://doi.org/10.21769/BIOPROTOC.4984 
 
 Mavrommatis, L., Zaben, A., Kindler, U., Kienitz, M.-C., Dietz, J., Jeong, H.-W., Böhme, P., Brand-Saberi, B., Vorgerd, M., & Zaehres, H. (2023). CRISPR/Cas9 genome editing in LGMD2A/R1 patient-derived induced pluripotent stem and skeletal muscle progenitor cells. Stem Cells International. https://doi.org/10.1155/2023/9246825 
