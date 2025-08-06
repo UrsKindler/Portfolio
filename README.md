@@ -42,6 +42,11 @@
 
 ### Academic Research Projects
 
+#### Duchenne Muscular Dystrophy Patient iPSCs—Derived Skeletal Muscle Organoids Exhibit a Developmental Delay in Myogenic Progenitor Maturation
+
+[Publication](https://www.mdpi.com/2073-4409/14/13/1033)
+
+
 #### Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells
 [Publication](https://bio-protocol.org/en/bpdetail?id=4984&type=0)
 
