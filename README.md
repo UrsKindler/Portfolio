@@ -34,6 +34,7 @@
 ## Projects
 
 - [Academic Research Projects](#academic-research-projects)
+  - [Duchenne Muscular Dystrophy Patient iPSCs—Derived Skeletal Muscle Organoids Exhibit a Developmental Delay in Myogenic Progenitor Maturation](#Duchenne-Muscular-Dystrophy-Patient-iPSCs—Derived-Skeletal-Muscle-Organoids-Exhibit-a-Developmental-Delay-in-Myogenic-Progenitor-Maturation)
   - [Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells](#generation-of-skeletal-muscle-organoids-from-human-pluripotent-stem-cells)
   - [Human Skeletal Muscle Organoids Model Fetal Myogenesis and Sustain Uncommitted PAX7 Myogenic Progenitors](#human-skeletal-muscle-organoids-model-fetal-myogenesis-and-sustain-uncommitted-pax7-myogenic-progenitors)
 - [Data Science Projects](#data-science-projects)
