@@ -102,6 +102,9 @@ The project focused on building a dynamic and interactive Tableau dashboard that
 
 #### Publication
 
+Gallert, S.-M.; Fölsch, M.; Mavrommatis, L.; Kindler, U.; Schork, K.; Eisenacher, M.; Vorgerd, M.; Brand-Saberi, B.; Eggers, B.; Marcus, K.; et al. Proteomics of Duchenne Muscular Dystrophy Patient IPSC-Derived Skeletal Muscle Cells Reveal Differential Expression of Cytoskeletal and Extracellular Matrix Proteins. Cells 2025, Vol. 14, Page 1688 2025, 14, 1688, doi:10.3390/CELLS14211688.
+
+
 Kindler, U., Mavrommatis, L., Käppler, F., Hiluf, D. G., Heilmann-Heimbach, S., Marcus, K., Günther Pomorski, T., Vorgerd, M., Brand-Saberi, B., & Zaehres, H. (2025). Duchenne Muscular Dystrophy Patient iPSCs—Derived Skeletal Muscle Organoids Exhibit a Developmental Delay in Myogenic Progenitor Maturation. Cells, 14(13), 1033. https://doi.org/10.3390/CELLS14131033/S1
 
 Kindler, U., Zaehres, H., & Mavrommatis, L. (2024). Generation of Skeletal Muscle Organoids from Human Pluripotent Stem Cells. BIO-PROTOCOL, 14(1344). https://doi.org/10.21769/BIOPROTOC.4984 
