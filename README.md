@@ -21,7 +21,7 @@ My core areas include single-cell RNA sequencing, multi-omics integration, human
 ### Bioinformatics and Omics
 
 - Single-cell RNA sequencing (scRNA-seq)
-- R and Seurat
+- R and Seurat, Python and Scanpy
 - Multi-omics data integration
 - Quality control and filtering
 - Normalization and technical-factor correction
