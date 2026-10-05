@@ -1,8 +1,8 @@
 # Urs Kindler, PhD
 
-**Computational Biologist | Biomedical Data Science | Multi-Omics, Knowledge Graphs & Drug Repurposing**
+Computational Biologist | Biomedical Data Science | Multi-Omics, Knowledge Graphs & Drug Repurposing
 
-[LinkedIn](www.linkedin.com/in/dr-urs-kindler-074437228) [ORCID](https://orcid.org/0000-0001-9676-6323) 
+[LinkedIn](www.linkedin.com/in/dr-urs-kindler-074437228) | [ORCID](https://orcid.org/0000-0001-9676-6323) 
 
 ---
 
