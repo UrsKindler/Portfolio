@@ -132,7 +132,7 @@ Integrate heterogeneous biomedical evidence to support transparent exploration o
 
 #### Methods and Technologies
 
-`Neo4j` · `Cypher` · `Python` · `SQL` · `Biomedical data integration` · `Knowledge graphs` · `Evidence synthesis`
+`Neo4j` · `Cypher` · `Python` · `R` · `Multi omics data integration` · `Knowledge graphs` 
 
 #### Confidentiality Notice
 
@@ -168,7 +168,7 @@ Investigate human satellite stem-cell function and myogenic-progenitor maturatio
 
 #### Skills Demonstrated
 
-`scRNA-seq` · `R` · `Seurat` · `Quality control` · `Differential expression` · `UMAP` · `Pseudotime` · `Reference-atlas integration` · `iPSCs` · `Organoids` · `FACS` · `Disease modelling`
+`scRNA-seq` · `R` · `Seurat` · `Quality control` · `Differential expression` · `UMAP` · `Pseudotime` · `Reference data integration` · `hiPSCs` · `Organoids` · `FACS` · `Disease modelling`
 
 #### Publication
 
@@ -198,7 +198,7 @@ Characterize developmental states and myogenic progenitor populations in human s
 
 #### Methods and Technologies
 
-`Cell Ranger` · `R` · `RStudio` · `Seurat v4.3` · `UMAP` · `Module scoring` · `Pseudotime analysis` · `Reference-atlas comparison`
+`R` · `RStudio` · `Seurat v4.3` · `UMAP` · `Module scoring` · `Pseudotime analysis` · `Reference-atlas comparison`
 
 #### Publication
 
