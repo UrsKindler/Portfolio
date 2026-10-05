@@ -347,12 +347,4 @@ Master's thesis placement at the Department of Molecular Biology and Genetics, A
 - **International experience:** Department of Molecular Biology and Genetics, Aarhus University, Denmark — Erasmus-funded Master's thesis placement, Feb 2016–Sep 2016
 - **Professional interests:** Computational biology · Biomedical data science · Multi-omics integration · Translational research · Drug discovery · Knowledge graphs · Rare diseases · Reproducible research software
 
----
 
-## Contact
-
-For professional inquiries, collaboration opportunities, or discussion of my work:
-
-- Email: `urs.kindler@rub.de`
-- [LinkedIn](www.linkedin.com/in/dr-urs-kindler-074437228)
-- [ORCID](https://orcid.org/0000-0001-9676-6323)
