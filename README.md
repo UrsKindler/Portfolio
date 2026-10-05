@@ -96,7 +96,7 @@ My core areas include single-cell RNA sequencing, multi-omics integration, human
 - Developed customized R/Seurat workflows for scRNA-seq quality control, normalization, filtering, clustering, trajectory analysis, and differential gene-expression analysis.
 - Integrated internally generated scRNA-seq data with external reference atlases to characterize disease-associated developmental states.
 - Combined computational analysis with 2D/3D iPSC differentiation, FACS-based analysis, and experimental validation.
-- Published first-author research in *Cells* and *Bio-Protocol* and co-authored peer-reviewed publications in *eLife*, *Cells*, *Biology*, *Stem Cells International*, and *Genes & Development*.
+- Published first-author research in *Cells* and *Bio-Protocol* and co-authored peer-reviewed publications in *eLife*, *Cells*, *Biology*, and *Stem Cells International*.
 
 ### Research Assistant  
 **Max Delbrück Center for Molecular Medicine, Helmholtz Institute Berlin, Germany**  
@@ -106,7 +106,7 @@ My core areas include single-cell RNA sequencing, multi-omics integration, human
 - Performed FACS analyses, phagocytosis assays, immunofluorescence experiments, and associated data analysis.
 - Processed microscopy data and contributed to quantitative analysis of phagocytic activity.
 - Supervised students in laboratory and research activities.
-
+- Published co-authored peer-reviewed publication in *Genes & Development*.
 ---
 
 ## Selected Projects
