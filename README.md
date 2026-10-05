@@ -2,7 +2,7 @@
 
 **Computational Biologist | Biomedical Data Science | Multi-Omics, Knowledge Graphs & Drug Repurposing**
 
-[LinkedIn](ADD_LINKEDIN_URL) · [GitHub](ADD_GITHUB_URL) · [ORCID](ADD_ORCID_URL) · [Google Scholar](ADD_GOOGLE_SCHOLAR_URL)
+[LinkedIn](www.linkedin.com/in/dr-urs-kindler-074437228) [ORCID](https://orcid.org/0000-0001-9676-6323) 
 
 ---
 
@@ -353,5 +353,5 @@ Master's thesis placement at the Department of Molecular Biology and Genetics, A
 For professional inquiries, collaboration opportunities, or discussion of my work:
 
 - Email: `urs.kindler@rub.de`
-- LinkedIn: [ADD_LINKEDIN_URL](www.linkedin.com/in/dr-urs-kindler-074437228)
-- ORCID: [ADD_ORCID_URL](https://orcid.org/0000-0001-9676-6323)
+- [LinkedIn](www.linkedin.com/in/dr-urs-kindler-074437228)
+- [ORCID](https://orcid.org/0000-0001-9676-6323)
