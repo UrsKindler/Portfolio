@@ -107,6 +107,7 @@ My core areas include single-cell RNA sequencing, multi-omics integration, human
 - Processed microscopy data and contributed to quantitative analysis of phagocytic activity.
 - Supervised students in laboratory and research activities.
 - Published co-authored peer-reviewed publication in *Genes & Development*.
+
 ---
 
 ## Selected Projects
