@@ -1,4 +1,4 @@
-# Urs Kindler, PhD
+# Dr. rer nat Urs Kindler
 
 Computational Biologist | Biomedical Data Science | Multi-Omics, Knowledge Graphs & Drug Repurposing
 
