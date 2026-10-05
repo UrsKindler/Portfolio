@@ -4,7 +4,7 @@ Computational Biologist | Biomedical Data Science | Multi-Omics, Knowledge Graph
 
 [LinkedIn](www.linkedin.com/in/dr-urs-kindler-074437228) | [ORCID](https://orcid.org/0000-0001-9676-6323) 
 
----
+
 
 ## About
 
